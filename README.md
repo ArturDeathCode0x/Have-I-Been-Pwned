@@ -1,3 +1,16 @@
+![Have I Been Pwned — DEATHCODE0x](assets/banner.svg)
+
+<p align="center">
+  <a href="https://github.com/ArturDeathCode0x/Have-I-Been-Pwned"><img src="https://img.shields.io/badge/GitHub-Repositório-0B1F35?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://haveibeenpwned.com/"><img src="https://img.shields.io/badge/Ferramenta-Acessar-0878C9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ferramenta"></a>
+  <img src="https://img.shields.io/badge/Área-OSINT-123B5D?style=for-the-badge" alt="OSINT">
+  <img src="https://img.shields.io/badge/Uso-Ético-087E8B?style=for-the-badge" alt="Uso ético">
+</p>
+
+> Verificação defensiva de exposição de contas em incidentes conhecidos.
+
+---
+
 # Have I Been Pwned
 
 Anotações para compreender e utilizar o serviço Have I Been Pwned (HIBP) na verificação defensiva de exposição de contas.

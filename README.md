@@ -9,6 +9,16 @@
 
 > Verificação defensiva de exposição de contas em incidentes conhecidos.
 
+<div align="center">
+  <img 
+    src="images/projeto.png"
+    alt="Preview do projeto"
+    width="400"
+    height="400"
+    style="object-fit: cover;"
+  />
+</div>
+
 ---
 
 # Have I Been Pwned

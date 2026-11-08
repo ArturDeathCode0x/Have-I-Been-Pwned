@@ -11,9 +11,9 @@
 
 <div align="center">
   <img 
-    src="images/projeto.png"
+    src="assets/Have I Been Pwned.png"
     alt="Preview do projeto"
-    width="400"
+    width="800"
     height="400"
     style="object-fit: cover;"
   />

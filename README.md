@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="https://shields.io🔑-red?style=for-the-badge" alt="Security Badge">
+  
+  <h1>🕵️‍♂️ Have I Been Pwned</h1>
+  
+  <p><i>Verifique se suas credenciais foram expostas em vazamentos de dados de forma elegante.</i></p>
+</div>
 
 
 <p align="center">

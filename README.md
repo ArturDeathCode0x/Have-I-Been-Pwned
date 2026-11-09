@@ -1,4 +1,4 @@
-![Have I Been Pwned — DEATHCODE0x](assets/banner.svg)
+
 
 <p align="center">
   <a href="https://github.com/ArturDeathCode0x/Have-I-Been-Pwned"><img src="https://img.shields.io/badge/GitHub-Repositório-0B1F35?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
